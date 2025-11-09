@@ -8,7 +8,7 @@
     { "source": "/refund", "destination": "/refund.html" },
     { "source": "/disclaimer", "destination": "/disclaimer.html" },
     { "source": "/terms", "destination": "/terms.html" },
-    { "source": "/activation", "destination": "/activation.html" }
+    { "source": "/activation", "destination": "/activation.html" },
     { "source": "/activate", "destination": "/activate.html" }
   ]
 }
