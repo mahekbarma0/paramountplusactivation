@@ -10,7 +10,7 @@
     { "source": "/terms", "destination": "/terms.html" },
     { "source": "/activation", "destination": "/activation.html" },
     { "source": "/activate", "destination": "/activate.html" }
-    { "source": "/code", "destination": "/code-activate.html" }
-    { "source": "/channel", "destination": "/channel-activate.html" }
+    { "source": "/code", "destination": "/code.html" }
+    { "source": "/channel", "destination": "/channel.html" }
   ]
 }
