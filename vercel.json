@@ -9,6 +9,6 @@
     { "source": "/disclaimer", "destination": "/disclaimer.html" },
     { "source": "/terms", "destination": "/terms.html" },
     { "source": "/activation", "destination": "/activation.html" }
-    { "source": "/activation", "destination": "/activate.html" }
+    { "source": "/activate", "destination": "/activate.html" }
   ]
 }
